@@ -1,4 +1,4 @@
-Info about Leela <span xml:lang="en" lang="en"><b><span>Turanga Leela
-</span></b></span><span>Super</span><span>girl</span>
-<Bul>Bender</Bul>
-<caps>One cup of</caps>
+Info about Leela <span xml:lang="en" lang="en"><b><span>Turanga Leela;
+</span></b></span><span>Super</span><span>girl</span>;
+<Bul>Bender</Bul>;
+<caps>One cup of</caps>;
